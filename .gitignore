@@ -1,0 +1,6 @@
+# Vim swap files
+*.swp
+*.swo
+# System files
+.DS_Store
+Thumbs.db
