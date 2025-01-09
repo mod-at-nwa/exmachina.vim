@@ -30,14 +30,25 @@ Accent colors:
 
 ## Installation
 
+### Important Notes
+
+- ExMachina works best when it's your primary theme. To avoid font rendering issues, especially with airline integration, ensure you don't have multiple theme plugins active simultaneously.
+- If using with vim-airline, load the plugins in this order:
+  ```vim
+  Plug 'vim-airline/vim-airline'
+  Plug 'vim-airline/vim-airline-themes'
+  Plug 'username/exmachina.vim'
+  ```
+- Disable or remove other theme plugins to prevent conflicts
+
 ### Using a Plugin Manager
 
 ```vim
 " vim-plug
-Plug 'username/exmachina.vim'
+Plug 'mod-at-nwa/exmachina.vim'
 
 " Or with packer.nvim in lua
-use 'username/exmachina.vim'
+use 'mod-at-nwa/exmachina.vim'
 ```
 
 ### Manual Installation
