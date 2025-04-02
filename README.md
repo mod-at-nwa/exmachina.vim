@@ -4,7 +4,8 @@ A Star Wars-inspired deep space tech colorscheme for Vim/Neovim with airline int
 
 ## Screenshots
 
-[Coming Soon]
+[![Single vim window with 2 buffers](img/Screenshot-vi-exmachina.vim-theme-thumb.jpg)](img/Screenshot-vi-exmachina.vim-theme.jpg)
+[![Tmux split with startify and editing](img/Screenshot-vi-exmachina.vim-theme-2-thumb.jpg)](img/Screenshot-vi-exmachina.vim-theme-2.jpg)
 
 ## Features
 
@@ -128,3 +129,14 @@ MIT
 
 - Color palette inspired by Star Wars computer interfaces
 - Thanks to the vim-airline team for theme guidelines
+
+## Changelog
+
+### v0.2.0 (2025-04-02)
+- Added screenshot images
+- Improved documentation
+
+### v0.1.0 (Initial Release)
+- Initial colorscheme implementation
+- Airline theme integration
+- Basic documentation
